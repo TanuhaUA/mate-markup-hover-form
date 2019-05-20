@@ -1,4 +1,4 @@
-# mate-markup-hover-form
+# Homework7 - hover & form 
 
 **Вимоги до виконання всіх завдань:** 
 1. Верстати необхідно на **SCSS**
